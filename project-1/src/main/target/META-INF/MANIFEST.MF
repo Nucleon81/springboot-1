@@ -1,0 +1,29 @@
+Manifest-Version: 1.0
+Main-Class: com.practice.project_1.Springboot1Application
+Class-Path: stax2-api-4.2.2.jar jackson-dataformat-xml-2.19.1.jar spring
+ -boot-starter-json-3.5.3.jar spring-security-config-6.5.1.jar spring-bo
+ ot-starter-web-3.5.3.jar spring-data-mongodb-4.5.1.jar spring-aop-6.2.8
+ .jar spring-boot-autoconfigure-3.5.3.jar slf4j-api-2.0.17.jar logback-c
+ ore-1.5.18.jar spring-boot-3.5.3.jar twilio-10.5.1.jar jackson-datatype
+ -jsr310-2.19.1.jar jackson-annotations-2.19.1.jar jakarta.annotation-ap
+ i-2.1.1.jar spring-core-6.2.8.jar jjwt-jackson-0.11.2.jar java-jwt-4.4.
+ 0.jar spring-tx-6.2.8.jar spring-context-6.2.8.jar snakeyaml-2.4.jar mo
+ ngodb-driver-core-5.5.1.jar spring-beans-6.2.8.jar jackson-module-param
+ eter-names-2.19.1.jar tomcat-embed-el-10.1.42.jar log4j-to-slf4j-2.24.3
+ .jar jakarta.validation-api-3.0.2.jar woodstox-core-7.1.1.jar commons-i
+ o-2.7.jar spring-data-commons-3.5.1.jar jboss-logging-3.6.1.Final.jar j
+ jwt-impl-0.11.2.jar spring-web-6.2.8.jar commons-codec-1.18.0.jar hiber
+ nate-validator-8.0.2.Final.jar spring-boot-starter-logging-3.5.3.jar jj
+ wt-0.12.6.jar micrometer-observation-1.15.1.jar bson-5.5.1.jar bson-rec
+ ord-codec-5.5.1.jar spring-webmvc-6.2.8.jar spring-jcl-6.2.8.jar spring
+ -boot-starter-security-3.5.3.jar spring-boot-starter-data-mongodb-3.5.3
+ .jar jackson-datatype-jdk8-2.19.1.jar tomcat-embed-websocket-10.1.42.ja
+ r spring-security-crypto-6.5.1.jar spring-expression-6.2.8.jar spring-s
+ ecurity-core-6.5.1.jar jackson-databind-2.19.1.jar spring-security-web-
+ 6.5.1.jar micrometer-commons-1.15.1.jar classmate-1.7.0.jar spring-boot
+ -starter-validation-3.5.3.jar jjwt-api-0.11.2.jar spring-boot-starter-3
+ .5.3.jar commons-logging-1.2.jar tomcat-embed-core-10.1.42.jar spring-b
+ oot-starter-tomcat-3.5.3.jar logback-classic-1.5.18.jar httpcore-4.4.16
+ .jar jul-to-slf4j-2.0.17.jar httpclient-4.5.13.jar mongodb-driver-sync-
+ 5.5.1.jar log4j-api-2.24.3.jar jackson-core-2.19.1.jar
+
